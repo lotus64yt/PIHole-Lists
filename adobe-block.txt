@@ -1,0 +1,36 @@
+# Adobe Block List
+# Blocks Adobe telemetry, activation, and update servers
+# Use with Pi-hole or similar DNS-level blockers
+
+# Adobe Activation Servers
+activate.adobe.com
+practivate.adobe.com
+ereg.adobe.com
+activate.wip3.adobe.com
+wip3.adobe.com
+activate-sea.adobe.com
+wwis-dubc1-vip60.adobe.com
+activate-sjc0.adobe.com
+adobe-dns.adobe.com
+
+# Adobe Telemetry and Analytics
+cc-api-data.adobe.io
+ic.adobe.io
+sstats.adobe.com
+edgeproxy-irl1.cloud.adobe.io
+
+# Adobe Genuine Software Service
+lm.licenses.adobe.com
+na1r.services.adobe.com
+hlrcv.stage.adobe.com
+lmlicenses.wip4.adobe.com
+
+# Adobe Update Servers
+swupmf.adobe.com
+swupdl.adobe.com
+cfsdl.adobe.com
+
+# Adobe Creative Cloud
+cc-api-data.adobe.io
+prod.adobegenuine.com
+genuine.adobe.com
